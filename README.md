@@ -7,6 +7,7 @@
 Desafio1- Faça um Programa que peça dois números e imprima o maior deles.
 
 </li>
+<br>
 
 
 <li>
@@ -14,24 +15,28 @@ Desafio1- Faça um Programa que peça dois números e imprima o maior deles.
 Desafio2- Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
 
 </li>
+<br>
 
 <li>
 
 Desafio3- Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
 
 </li>
+<br>
 
 <li>
 
 Desafio4- Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
 
 </li>
+<br>
 
 <li>
 
 Desafio5- Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
  
 </li>
+<br>
 
 <ul>
 <li>
@@ -57,18 +62,21 @@ A mensagem "Aprovado com Distinção", se a média for igual a dez.
 
 </ul>
 </li>
+<br>
 
 <li>
 
 Desafio6- Faça um Programa que leia três números e mostre o maior deles. 
 
 </li>
+<br>
 
 <li>
 
 Desafio7- Faça um Programa que leia três números e mostre o maior e o menor deles.
 
 </li>
+<br>
 
 
 <li>
@@ -76,24 +84,28 @@ Desafio7- Faça um Programa que leia três números e mostre o maior e o menor d
 Desafio8- Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato. 
 
 </li>
+<br>
 
 <li>
 
 Desafio9- Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
 </li>
+<br>
 
 <li>
 
 Desafio10- Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
 
 </li>
+<br>
 
 <li>
 
 Desafio11- As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes
 
 </li>
+<br>
 
 <ul>
 <li>
@@ -102,80 +114,87 @@ Faça um programa que recebe o salário de um colaborador e o reajuste segundo o
 
 </ul>
 </li>
+
+<ul>
+<li>
+
+Salários até R$ 280,00 (incluindo) : aumento de 20%
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+Salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+Salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+Salários de R$ 1500,00 em diante : aumento de 5% Após o aumento ser realizado, informe na tela:
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+Salários de R$ 1500,00 em diante : 
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+Após o aumento ser realizado, informe na tela:
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+O salário antes do reajuste;
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+O percentual de aumento aplicado;
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+O valor do aumento;
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+O novo salário, após o aumento.
+
+</ul>
+</li>
 <br>
-
-<ul>
-<li>
-
-salários até R$ 280,00 (incluindo) : aumento de 20%
-
-</ul>
-</li>
-
-<ul>
-<li>
-
-salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
-
-</ul>
-</li>
-
-<ul>
-<li>
-
-salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
-
-</ul>
-</li>
-
-<ul>
-<li>
-
-salários de R$ 1500,00 em diante : aumento de 5% Após o aumento ser realizado, informe na tela:
-
-</ul>
-</li>
-
-<ul>
-<li>
-
-salários de R$ 1500,00 em diante : Após o aumento ser realizado, informe na tela:
-
-</ul>
-</li>
-<br>
-
-<ul>
-<li>
-
-o salário antes do reajuste;
-
-</ul>
-</li>
-
-<ul>
-<li>
-
-o percentual de aumento aplicado;
-
-</ul>
-</li>
-
-<ul>
-<li>
-
-o valor do aumento;
-
-</ul>
-</li>
-
-<ul>
-<li>
-
-o novo salário, após o aumento.
-
-</ul>
-</li>
 
 <li>
 
@@ -185,6 +204,7 @@ mas não é descontado (é a empresa que deposita). O Salário Líquido correspo
 O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.
 
 </li>
+<br>
 
 <ul>
 <li>
@@ -193,7 +213,6 @@ Desconto do IR:
 
 </ul>
 </li>
-<br>
 
 <ul>
 <li>
@@ -230,17 +249,17 @@ No exemplo o valor da hora é 5 e a quantidade de hora é 220.
 <br>
 
 <ul>
-<li>
 
-Salário Bruto: (5 * 220)     : R$ 1100,00
-(-) IR (5%)                  : R$   55,00
-(-) INSS (10%)               : R$  110,00
-FGTS (11%)                   : R$  121,00
-Total de desconto            : R$  165,00    
-Salário Liquido              : R$  935,00         
+| Salário Bruto: (5 * 220)  |  R$ 1100,00  |
+| ---    | ---      |   
+| (-) IR (5%) |   R$   55,00    |
+| (-) INSS (10%)  |R$ 110,00 |        |     
+| FGTS (11%)  | R$  121,00|        |  
+| Total de descontos  |R$  165,00 |        |  
+| Salário Líquido  | R$  935,00|        |  
 
 </ul>
-</li>
+<br>
 
 <li>
 
@@ -248,6 +267,7 @@ Desafio13- Faça um Programa que leia um número e exiba o dia correspondente da
 se digitar outro valor deve aparecer valor inválido.
 
 </li>
+<br>
 
 <li>
 
@@ -259,16 +279,17 @@ Desafio14- Faça um programa que lê as duas notas parciais obtidas por um aluno
 <ul>
 <li>
 
-Média de Aproveitamento     Conceito
-Entre 9.0 e 10.0               A
-Entre 7.5 e 9.0                B
-Entre 6.0 e 7.5                C
-Entre 4.0 e 6.0                D
-Entre 4.0 e zero               E
+| Média de aproveitamento  |  Conceito  |
+| ---    | ---      |   
+| Entre 9. 0 e 10. 0 |   A   |
+| Entre 7.5 e 9.0 |   B     |     
+| Entre 6.0 e 7.5   | C|        |  
+| Entre 4.0 e 6.0   |D |        |  
+|  Entre 4.0 e zero  | E|        |  
+
 
 </ul>
 </li>
-<br>
 
 <ul>
 <li>
@@ -278,6 +299,7 @@ o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou 
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -285,6 +307,7 @@ Desafio15- Faça um Programa que peça os 3 lados de um triângulo. O programa d
 se o mesmo é: equilátero, isósceles ou escaleno. Dicas:
 
 </li>
+<br>
 
 <ul>
 <li>
@@ -313,10 +336,11 @@ Triângulo Isósceles: quaisquer dois lados iguais;
 <ul>
 <li>
 
-Triângulo Escaleno: três lados diferentes;
+Triângulo Escaleno: três lados diferentes.
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -324,6 +348,7 @@ Desafio16- Faça um programa que calcule as raízes de uma equação do segundo 
 O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário nas seguintes situações:
 
 </li>
+<br>
 
 <ul>
 <li>
@@ -352,17 +377,19 @@ Se o delta calculado for igual a zero a equação possui apenas uma raiz real; i
 <ul>
 <li>
 
-Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;
+Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário.
 
 </ul>
 </li>
+<br>
 
 
 <li>
 
-Desafio17- Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto
+Desafio17- Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.
 
 </li>
+<br>
 
 
 <li>
@@ -370,6 +397,7 @@ Desafio17- Faça um Programa que peça um número correspondente a um determinad
 Desafio18- Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.
 
 </li>
+<br>
 
 
 <li>
@@ -377,6 +405,7 @@ Desafio18- Faça um Programa que peça uma data no formato dd/mm/aaaa e determin
 Desafio19- Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.
 
 </li>
+<br>
 
 <ul>
 <li>
@@ -397,10 +426,11 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
 <ul>
 <li>
 
-12 = 1 dezena e 2 unidades Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16
+12 = 1 dezena e 2 unidades Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16.
 
 </ul>
 </li>
+<br>
 
 
 <li>
@@ -408,6 +438,7 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
 Desafio20 - Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:
 
 </li>
+<br>
 
 <ul>
 <li>
@@ -433,6 +464,7 @@ A mensagem "Aprovado com Distinção", se a média for igual a 10.
 
 </ul>
 </li>
+<br>
 
 
 <li>
@@ -443,6 +475,7 @@ As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é 
 O programa não deve se preocupar com a quantidade de notas existentes na máquina.
 
 </li>
+<br>
 
 <ul>
 <li>
@@ -459,6 +492,7 @@ Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 
 
 </ul>
 </li>
+<br>
 
 
 <li>
@@ -466,13 +500,14 @@ Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 
 Desafio22- Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).
 
 </li>
-
+<br>
 
 <li>
 
 Desafio23- Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.
 
 </li>
+<br>
 
 
 <li>
@@ -481,6 +516,7 @@ Desafio24- Faça um Programa que leia 2 números e em seguida pergunte ao usuár
 O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
 
 </li>
+<br>
 
 <ul>
 <li>
@@ -506,6 +542,7 @@ inteiro ou decimal.
 
 </ul>
 </li>
+<br>
 
 
 <li>
@@ -513,6 +550,7 @@ inteiro ou decimal.
 Desafio25- Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
 
 </li>
+<br>
 
 <ul>
 <li>
@@ -564,6 +602,7 @@ Caso contrário, ele será classificado como "Inocente".
 
 </ul>
 </li>
+<br>
 
 
 <li>
@@ -633,9 +672,10 @@ Desafio27- Uma fruteira está vendendo frutas com a seguinte tabela de preços:
 <ul>
 <li>
 
-               	  Até 5 Kg      Acima de 5 kg
-Morango     R$ 2,50 por Kg     R$ 2,20 por Kg
-Maçã        R$ 1,80 por Kg     R$ 1,50 por Kg
+|     |  Até 5 Kg  |    Acima de 5 Kg    |
+| :---         |     :---:      |          ---: |
+| Morango  | R$ 2,50 por Kg   | R$ 2,20 por Kg    |
+| Maçã   | R$ 1,80 por Kg     | R$ 1,50 por Kg     |
 
 </ul>
 </li>
@@ -650,6 +690,7 @@ Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (e
 
 </ul>
 </li>
+<br>
 
 
 <li>
@@ -662,11 +703,11 @@ Desafio28- O Hipermercado Tabajara está com uma promoção de carnes que é imp
 <ul>
 <li>
 
-                     Até 5 Kg      Acima de 5 Kg
-File Duplo     R$ 4,90 por Kg     R$ 5,80 por Kg
-Alcatra        R$ 5,90 por Kg     R$ 6,80 por Kg
-Picanha        R$ 6,90 por Kg     R$ 7,80 por Kg
-
+|     |  Até 5 Kg  |    Acima de 5 Kg    |
+| :---         |     :---:      |          ---: |
+| File Duplo  | R$ 4,90 por Kg   | R$ 5,80 por Kg    |
+| Alcatra   | R$ 5,90 por Kg     | R$ 6,80 por Kg     |
+| Picanha   | R$  por Kg     | R$ 7,80 por Kg     |
 </ul>
 </li>
 <br>
