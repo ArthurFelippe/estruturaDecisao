@@ -5,7 +5,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-// Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.
+//Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.
 
 rl.question('Informe uma data no formato dd/mm/aaaa:', (dataEscrita) => {
   const data = dataEscrita.split('/')

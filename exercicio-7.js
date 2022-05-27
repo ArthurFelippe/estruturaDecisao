@@ -4,7 +4,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-// Faça um Programa que leia três números e mostre o maior e o menor deles.
+//Faça um Programa que leia três números e mostre o maior e o menor deles.
 
 rl.question('Informe o valor do primeiro número: ', (num1) => {
   rl.question('Informe o valor do segundo número: ', (num2) => {

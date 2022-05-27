@@ -7,7 +7,8 @@ const rl = readline.createInterface({
 });
 
 /*
-Um posto está vendendo combustíveis com a seguinte tabela de descontos, Álcool:
+Um posto está vendendo combustíveis com a seguinte tabela de descontos,
+Álcool:
 - Até 20 litros, desconto de 3% por litro
 - Acima de 20 litros, desconto de 5% por litro
 Gasolina:

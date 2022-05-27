@@ -4,7 +4,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-// Faça um Programa que leia três números e mostre-os em ordem decrescente.
+//Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
 rl.question('Digite o primeiro número: ', (num1) => {
   rl.question('Digite o segundo número: ', (num2) => {

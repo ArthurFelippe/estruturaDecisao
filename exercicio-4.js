@@ -5,7 +5,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-// Faça um Programa que verifique se uma letra digitada é vogal ou consoante
+//Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
 
 rl.question('Digite uma letra: ', (letra) => {
 

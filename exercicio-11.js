@@ -9,6 +9,7 @@ As Organizações Tabajara resolveram dar um aumento de salário aos seus colabo
 lhe contraram para desenvolver o programa que calculará os reajustes.
 Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério,
 baseado no salário atual:
+
 - Salários até R$ 280,00 (incluindo) : aumento de 20%
 - Salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
 - Salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%

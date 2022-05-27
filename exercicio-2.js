@@ -5,7 +5,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-// Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+//Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
 
 rl.question('Informe o número: ', (n) => {
 

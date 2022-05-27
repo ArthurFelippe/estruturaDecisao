@@ -8,10 +8,11 @@ const rl = readline.createInterface({
 O programa deverá informar se os valores podem ser um triângulo. 
 Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
 Dicas:
+
 - Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
 - Triângulo Equilátero: três lados iguais;
 - Triângulo Isósceles: quaisquer dois lados iguais;
-- Triângulo Escaleno: três lados diferentes;
+- Triângulo Escaleno: três lados diferentes.
 */
 
 rl.question('Informe o valor do primeiro lado: ', (l1) => {

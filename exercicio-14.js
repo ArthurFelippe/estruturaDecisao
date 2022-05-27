@@ -7,6 +7,7 @@ const rl = readline.createInterface({
 /*
 Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre,
 e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
+
 Média de Aproveitamento  Conceito
 Entre 9.0 e 10.0        A
 Entre 7.5 e 9.0         B

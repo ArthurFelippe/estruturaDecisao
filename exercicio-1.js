@@ -4,7 +4,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-// Faça um Programa que peça dois números e imprima o maior deles.
+//Faça um Programa que peça dois números e imprima o maior deles.
 
 rl.question('Informe o valor do primeiro número: ', (num1) => {
   rl.question('Informe o valor do segundo número: ', (num2) => {
